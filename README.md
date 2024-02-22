@@ -7,7 +7,7 @@
 
 <div align=center>
  
- <!--[![wakatime](https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge)](https://wakatime.com/@018b7c34-66c0-414f-bed4-3cc0802eb59d)-->
+ ![wakatime](https://wakatime.com/badge/user/waka_c2bd6dcc-c660-423e-97e7-7c2951bb14bd.svg?style=for-the-badge)](https://wakatime.com/@waka_c2bd6dcc-c660-423e-97e7-7c2951bb14bd)
  
 </div>
 
@@ -30,7 +30,7 @@
  ![](https://img.shields.io/badge/💬%20Ask%20me%20about-%23FF0000?style=for-the-badge)![](https://img.shields.io/badge/Web%20Development-%23563D7C?style=for-the-badge)
  
  
-![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/ajilk0325@gmail.com7@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/📫%20Reach%20out%20to%20me-%23323330?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/ajilk0325@gmail.com@gmail.com-%23ED8B00?style=for-the-badge&logoColor=white)
 
 
 ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)](https://drive.google.com/drive/folders/1s-UxltNav_Di9Z_zW1Va6lvpMnadWrsE) 
