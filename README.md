@@ -7,7 +7,7 @@
 
 <div align=center>
  
- ![wakatime](https://wakatime.com/badge/user/waka_c2bd6dcc-c660-423e-97e7-7c2951bb14bd.svg?style=for-the-badge)](https://wakatime.com/@waka_c2bd6dcc-c660-423e-97e7-7c2951bb14bd)
+ ![wakatime](https://wakatime.com/badge/user/waka_c2bd6dcc-c660-423e-97e7-7c2951bb14bd.svg?style=for-the-badge)](https://wakatime.com/@018dccc1-472c-4865-9cdf-46e88a3178c1)
  
 </div>
 
