@@ -163,7 +163,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=ajilkumar&icon=0&color=9)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=ajilkumar&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br>
